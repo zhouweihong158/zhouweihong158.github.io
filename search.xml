@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>Hello World</title>
+      <title></title>
       <link href="/uncategorized/hello-world/"/>
       <url>/uncategorized/hello-world/</url>
       
-        <content type="html"><![CDATA[<p>欢迎来到我的网站，这是我的第一个个人网站。</p>]]></content>
+        <content type="html"><![CDATA[<hr><h2 id="title-毕业1年有感"><a href="#title-毕业1年有感" class="headerlink" title="title:毕业1年有感"></a>title:毕业1年有感</h2>]]></content>
       
       
       
